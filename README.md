@@ -12,4 +12,4 @@ Its features include:
 -CSS Animations: Employed CSS animations for game interactions, such as flipping and bouncing effects, to create a more engaging and interactive user experience.
 
 
-![Minute-dle screenshot](Minutedle.png)
+![Demo: ](myDemo.PNG)
