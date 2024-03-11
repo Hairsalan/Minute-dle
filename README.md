@@ -12,4 +12,9 @@ Its features include:
 -CSS Animations: Employed CSS animations for game interactions, such as flipping and bouncing effects, to create a more engaging and interactive user experience.
 
 
+To start this application open two terminals.
+In both terminals, enter cd wordlclone
+In one terminal, input "json-server ./data/db.json --port 3001"
+In the other terminal, input "npm run start"
+
 ![Demo: ](myDemo.PNG)
